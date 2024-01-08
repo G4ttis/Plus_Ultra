@@ -1,0 +1,7 @@
+name = "Plus Ultra"
+path = "mod/PSU"
+user_dir = "PSU"
+replace_path = "history/provinces"
+replace_path = "events"
+replace_path = "decisions"
+replace_path = "gfx"
